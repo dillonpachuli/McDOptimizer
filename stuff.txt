@@ -1,0 +1,10 @@
+STUFF
+
+LISTS
+- List of all deals (items, price)
+- List of all items (name, macros, )
+
+PROCESS
+1. Title Screen
+2. Input parameters (what you are looking for)
+3. Assess ideal deals
